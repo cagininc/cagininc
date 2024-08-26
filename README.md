@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cagininc
-- 👀 I’m interested in Front-End Devolopment
-- 🌱 I’m currently learning ReactJS
+- 👀 I’m interested in Fullstack Development
+- 🌱 I’m currently learning MongoDB
 - 📫 How to reach me cagininc @instagram
 
 
