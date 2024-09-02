@@ -12,6 +12,9 @@
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=Express&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=TypeScript&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=MongoDB&logoColor=white)
+<img src="https://raw.githubusercontent.com/reduxjs/redux/master/logo/logo.png" alt="Redux" width="50" height="50" /> 
+<img src="https://raw.githubusercontent.com/vercel/next.js/canary/public/favicon.ico" alt="Next.js" width="50" height="50" />
+
 
 
 
