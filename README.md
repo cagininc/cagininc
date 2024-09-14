@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cagininc
 - 👀 I’m interested in Fullstack Development
-- 🌱 I’m currently learning MongoDB
+- 🌱 I’m currently learning NestJS
 - 📫 How to reach me cagininc @instagram
 
 
