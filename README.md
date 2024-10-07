@@ -2,7 +2,7 @@
 - 🎓 Yıldız Teknik Üniversitesi
 - 👀 I’m interested in Fullstack Development
 - 🌱 I’m currently learning NestJS
-- 📫 How to reach me cagininc @instagram
+- 📫 How to reach me cagininc@gmail.com
 
 
 💻 **Technologies I work with:**
