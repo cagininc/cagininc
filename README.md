@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @cagininc
 - 🎓 Yıldız Teknik Üniversitesi
+- 🎓 İstanbul Teknik Üniversitesi
 - 👀 I’m interested in Fullstack Development
 - 🌱 I’m currently learning NestJS
 - 📫 How to reach me cagininc@gmail.com
