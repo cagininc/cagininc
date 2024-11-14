@@ -2,7 +2,7 @@
 - 🎓 Yıldız Teknik Üniversitesi
 - 🎓 İstanbul Teknik Üniversitesi
 
--👨‍💻 Aspiring Fullstack Developer with a focus on creating robust web applications
+-👨‍💻 Merging creativity and technology to design impactful solutions. Passionate about developing user-focused applications that inspire and solve real-world challenges.
 - 📫 How to reach me cagininc@gmail.com
 
 
