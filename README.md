@@ -2,8 +2,8 @@
 - 🎓 Yıldız Teknik Üniversitesi
 - 🎓 İstanbul Teknik Üniversitesi
 
--👨‍💻 Merging creativity and technology to design impactful solutions. Passionate about developing user-focused applications that inspire and solve real-world challenges.
-- 📫 How to reach me cagininc@gmail.com
+👨‍💻 Merging creativity and technology to design impactful solutions. Passionate about developing user-focused applications that inspire and solve real-world challenges.
+ 📫 How to reach me cagininc@gmail.com
 
 
 💻 **Technologies I work with:**
