@@ -2,7 +2,7 @@
 - 🎓 Yıldız Teknik Üniversitesi
 - 🎓 İstanbul Teknik Üniversitesi
 
-👨‍💻 Merging creativity and technology to design impactful solutions. Passionate about developing user-focused applications that inspire and solve real-world challenges.
+👨‍💻 Merging creativity and technology to design impactful solutions while ensuring software quality through automated and manual testing. Passionate about developing user-focused applications that inspire, solve real-world challenges, and deliver reliable experiences.
  📫 How to reach me cagininc@gmail.com
 
 
