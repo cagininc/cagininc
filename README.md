@@ -6,4 +6,4 @@
 📫 How to reach me: cagininc@gmail.com  
 ![ISTQB Certified](https://img.shields.io/badge/ISTQB-Certified-FF0000?style=flat&logo=istqb&logoColor=white)
 
-You can find my work and contributions on my [GitHub profile](https://github.com/cagininc).
+"Great things are done by a series of small things brought together." – Vincent van Gogh
