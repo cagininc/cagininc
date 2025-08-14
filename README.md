@@ -6,4 +6,5 @@
 📫 How to reach me: cagininc@gmail.com  
 ![ISTQB Certified](https://img.shields.io/badge/ISTQB-Certified-FF0000?style=flat&logo=istqb&logoColor=white)
 
-"Great things are done by a series of small things brought together." – Vincent van Gogh
+**"Great things are done by a series of small things brought together." – Vincent van Gogh
+**
